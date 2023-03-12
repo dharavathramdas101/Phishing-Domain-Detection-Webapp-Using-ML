@@ -1,7 +1,7 @@
 
 # Phishing Domain Detection
 
-Check the site on cloud : http://project102-env.eba-2btzpcth.us-east-1.elasticbeanstalk.com/
+Check the site on AWS cloud link: http://project102-env.eba-2btzpcth.us-east-1.elasticbeanstalk.com/
 
 ![image](https://github.com/dharavathramdas101/Phishing-Domain-Detection-Webapp-Using-ML/blob/main/Documents/Screenshot%20(5).png)
 
